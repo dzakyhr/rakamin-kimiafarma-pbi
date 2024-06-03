@@ -1,9 +1,8 @@
 # Project-Based Virtual Intern : Big Data Analytics x Rakamin Academy
 ## Repository Directory
-1. &nbsp;&nbsp;&nbsp;&nbsp;`About Project` : Detail about the project.
-2. &nbsp;&nbsp;&nbsp;&nbsp;`FinalTask_KimiaFarma_BDA_Dzaky Hilal Ramdhan Wahidi.pdf` : Slides of the analysis result on this project.
-3. &nbsp;&nbsp;&nbsp;&nbsp;`SQL Query`: Syntax I used on BigQuery to create analysis table.
-4. &nbsp;&nbsp;&nbsp;&nbsp;`Dashboard.png`: Preview of the dashboard made.
+1. &nbsp;&nbsp;&nbsp;&nbsp;`FinalTask_KimiaFarma_BDA_Dzaky Hilal Ramdhan Wahidi.pdf` : Slides of the analysis result on this project.
+2. &nbsp;&nbsp;&nbsp;&nbsp;`SQL Query`: Syntax I used on BigQuery to create analysis table.
+3. &nbsp;&nbsp;&nbsp;&nbsp;`Dashboard.png`: Preview of the dashboard made.
 ## About Project
 As a Big Data Analytics Intern at Kimia Farma, the tasks will encompass a range of challenges that require a deep understanding of data and analytical skills. One of the main projects will be to evaluate Kimia Farma's business performance from 2020 to 2023. To do this the objective are:
 1. To create analysis table from the raw data
